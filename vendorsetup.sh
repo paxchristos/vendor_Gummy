@@ -17,4 +17,6 @@ add_lunch_combo Gummy_toro-userdebug
 add_lunch_combo Gummy_toroplus-userdebug
 add_lunch_combo Gummy_vibrantmtd-userdebug
 add_lunch_combo Gummy_wingray-userdebug
-add_lunch_combo Gummy_zeus-userdebug
+add_lunch_combo Gummy_zeusc-userdebug
+add_lunch_combo Gummy_tenderloin-userdebug
+add_lunch_combo Gummy_liberty-userdebug
