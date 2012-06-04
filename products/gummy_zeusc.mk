@@ -3,9 +3,9 @@ $(call inherit-product, vendor/Gummy/products/common.mk)
 $(call inherit-product, vendor/Gummy/products/common_phone.mk)
 
 PRODUCT_NAME := Gummy_zeusc
-PRODUCT_BRAND := Sony Mobile
-PRODUCT_DEVICE := R800x
-PRODUCT_MODEL := zeus
+PRODUCT_BRAND := Sony_Mobile
+PRODUCT_DEVICE := zeusc
+PRODUCT_MODEL := R800x
 PRODUCT_MANUFACTURER := Sony
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
