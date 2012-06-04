@@ -21,4 +21,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/gummy_crespo.mk \
     $(LOCAL_DIR)/gummy_zeusc.mk\
     $(LOCAL_DIR)/gummy_tenderloin.mk\
-    $(LOCAL_DIR)/Gummy_liberty.mk
+    $(LOCAL_DIR)/gummy_liberty.mk
