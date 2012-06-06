@@ -22,7 +22,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	ro.com.google.mcc_fallback=262 \
 	ro.setupwizard.mode=OPTIONAL \
 	ro.com.android.dataroaming=false \
-	drm.service.enabled=true \
 	camera.flash_off=0 \
 	dalvik.vm.lockprof.threshold=500 \
 	ro.goo.developerid=Kanged-TeamGummy \
